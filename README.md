@@ -6,4 +6,4 @@
 
 https://trinhbatquan.github.io/TodoList_ReduxCustom/
 
-###Thanks for watching!
+### Thanks for watching!

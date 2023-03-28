@@ -1,7 +1,9 @@
-TODOLIST APP.
+# TODOLIST APP.
 
-HTML, CSS, JavaScript and Redux core.
+### HTML, CSS, JavaScript and Redux core.
 
-Public URL:
+### Public URL:
+
 https://trinhbatquan.github.io/TodoList_ReduxCustom/
-#Thanks for watching!
+
+###Thanks for watching!
